@@ -1,0 +1,3 @@
+# ignore dataset files
+dataset/
+__pycache__/
